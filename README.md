@@ -100,7 +100,7 @@ http://localhost:8080
 
 ---
 
-## 🧑‍💻 Author
+## Author
 Developed by Visana George-Vladut as part of a hands-on internship-level academic project.
 
 ---
